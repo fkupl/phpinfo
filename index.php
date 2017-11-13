@@ -13,7 +13,7 @@
     foreach($contentsArray as $line)
     {
       echo $line;
-      if($j > 20)
+      if($j > 40)
         break;
       $j++;
     }
