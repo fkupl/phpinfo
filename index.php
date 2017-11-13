@@ -15,6 +15,7 @@
       echo $line;
       if($j > 20)
         break;
+      $j++;
     }
     break;
   }
