@@ -1,11 +1,7 @@
 <?php
-  //echo "Script started at ";
-  //$objDateTime = new DateTime('NOW');
-  //echo $objDateTime->format('c');
-  
-  //phpinfo(); 
+  phpinfo(); 
 
-  echo "<pre>";
+  /*echo "<pre>";
   $contentsArray = file("./MOCK_DATA.csv");
   for($i=0;$i<1;$i++)
   {
@@ -19,5 +15,5 @@
     }
     break;
   }
-  echo "</pre>";
+  echo "</pre>";*/
 
